@@ -1,0 +1,15 @@
+{
+  "name": "coding-activity-1",
+  "version": "1.0.0",
+  "description": "my coding activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "vishnu ms",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
